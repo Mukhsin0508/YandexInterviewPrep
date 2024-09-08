@@ -236,6 +236,8 @@ from calendar import month
 #     print('you are on white square')
 
 
+
+
 # How replace the position of a and b with each other's
 # a = 8
 # b = 10
