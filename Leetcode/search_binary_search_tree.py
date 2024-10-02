@@ -33,8 +33,7 @@ class Solution:
         # If the target value is greater than the root's value, search in the right subtree
         return self.searchBST(root.right, val)
 
-        # Helper function to serialize the tree (convert it to list representation)
-
+    # Helper function to serialize the tree (convert it to list representation)
     def serialize(self, root: TreeNode):
         if not root:
             return []
